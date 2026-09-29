@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# Jupyter 自动生成的检查点
+.ipynb_checkpoints/
+
+# VS Code 配置（这里只有 LaTeX 报告的编译配置，与实验代码无关，不上传）
+.vscode/
+
+# LaTeX 实验报告目录（模板 + 报告正文 + 编译产物），不随本仓库上传
+BUAA_LaTeX_Template/
